@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR3eb025/v1
+canonical_location: https://kanripo.org/bkk/KR3eb025/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 脈訣
+  identifiers:
+    krp: KR3eb025
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb025.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb025_000.yaml, hash: 'sha256:4264cf7a2ca93601fcb44b5d17e1de7df368de214568ee386ce2d7bcc9188748'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb025_000.markers.yaml, hash: 'sha256:b05f594aa277b4f24439aded778c87082d1e72860c2f2c6a10250835cad78f23'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb025_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 2726
+  label: 正文
+  type: section
+  level: 1
+hash: sha256:7fc33023b2d388f5ff6d251f83fe6dd8c2e793e6b08ad45188de741e177bab57
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
